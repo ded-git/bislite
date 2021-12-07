@@ -1,0 +1,12 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 5 7" width="5" height="7">
+	<title>middle section</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #000000 } 
+	</style>
+	<g id="middle section">
+		<g id="text box 4">
+			<path id="arow" class="shp0" d="M1.33 7L0 5.73L2.33 3.49L2.33 3.49L2.33 3.49L0.01 1.27L1.34 0L4.99 3.49L1.33 7Z" />
+		</g>
+	</g>
+</svg>

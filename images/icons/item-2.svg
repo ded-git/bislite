@@ -1,0 +1,12 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21 17" width="21" height="17">
+	<title>middle section</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff } 
+	</style>
+	<g id="middle section">
+		<g id="text box 2">
+			<path id="fullscreen" class="shp0" d="M16.62 16.99L16.62 15.67L19.51 15.67L19.51 12.95L20.99 12.95L20.99 16.99L16.62 16.99ZM19.51 1.31L16.62 1.31L16.62 0L20.99 0L20.99 4.03L19.51 4.03L19.51 1.31ZM1.49 4.03L0.01 4.03L0.01 0L4.37 0L4.37 1.31L1.49 1.31L1.49 4.03ZM2.89 2.71L18.11 2.71L18.11 14.27L2.89 14.27L2.89 2.71ZM4.37 12.95L16.62 12.95L16.62 4.03L4.37 4.03L4.37 12.95ZM5.82 5.43L15.23 5.43L15.23 11.55L5.82 11.55L5.82 5.43ZM1.49 15.67L4.37 15.67L4.37 16.99L0.01 16.99L0.01 12.95L1.49 12.95L1.49 15.67Z" />
+		</g>
+	</g>
+</svg>

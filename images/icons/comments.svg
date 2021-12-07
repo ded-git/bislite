@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 23" width="24" height="23">
+	<title>testimonials</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #2aacc8 } 
+	</style>
+	<g id="testimonials">
+		<path id="comments" class="shp0" d="M16.67 16.68L9 23L10.73 17.31C4.7 16.85 0 13.16 0 8.68C0 3.89 5.37 0 12 0C18.63 0 24 3.89 24 8.68C24 12.28 20.98 15.36 16.67 16.68ZM12 1.81C6.76 1.81 2.51 4.89 2.51 8.68C2.51 12.47 6.76 15.55 12 15.55C17.24 15.55 21.49 12.47 21.49 8.68C21.49 4.89 17.24 1.81 12 1.81ZM7.5 8.16L16.5 8.16L16.5 9.65L7.5 9.65L7.5 8.16ZM7.5 5.19L16.5 5.19L16.5 6.68L7.5 6.68L7.5 5.19ZM14.26 12.61L9.76 12.61L9.76 11.13L14.26 11.13L14.26 12.61Z" />
+	</g>
+</svg>

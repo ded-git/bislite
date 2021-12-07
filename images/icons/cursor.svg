@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 24" width="14" height="24">
+	<title>latest works</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #2aacc8 } 
+	</style>
+	<g id="latest works">
+		<path id="Shape 3" class="shp0" d="M7.75 13.56L12.11 22.62L9.11 23.98L4.63 14.69L0 19.18L0 0L14 13.56L7.75 13.56Z" />
+	</g>
+</svg>

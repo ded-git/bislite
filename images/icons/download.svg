@@ -1,0 +1,12 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 25" width="28" height="25">
+	<title>bottom box</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff } 
+	</style>
+	<g id="bottom box">
+		<g id="download button">
+			<path id="download" class="shp0" d="M28.02 16.94L28.02 25L0 25L0 16.94L2.38 16.94L3.34 22.01L24.68 22.01L25.63 16.94L28.02 16.94ZM25.03 7.93L18.01 7.93L18.01 5L10.01 5L10.01 7.93L3.06 7.93L13.97 19.34L25.03 7.93ZM18.01 -0.04L10.01 -0.04L10.01 1.03L18.01 1.03L18.01 -0.04ZM18.01 1.96L10.01 1.96L10.01 3.99L18.01 3.99L18.01 1.96Z" />
+		</g>
+	</g>
+</svg>
